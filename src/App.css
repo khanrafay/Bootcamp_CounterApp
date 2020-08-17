@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.dayTime{
+  background-color: yellowgreen;
+}
+
+.nightTime{
+  background-color: darkblue;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
